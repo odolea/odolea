@@ -10,4 +10,4 @@ Architecture first, technology second: define the work, the limits, the oversigh
 
 Most of my code is private platform and client work, so there isn't much to browse here yet.
 
-[anthonyodole.com](https://anthonyodole.com) · [aitokenlabs.com](https://aitokenlabs.com) · [linkedin.com/in/odole](https://www.linkedin.com/in/odole)
+[anthonyodole.com](https://anthonyodole.com) · [aitokenlabs.com](https://aitokenlabs.com) · [linkedin.com/in/anthonyodole](https://www.linkedin.com/in/anthonyodole)
